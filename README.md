@@ -25,4 +25,4 @@
 3. **النمو المستقبلي:** النظام مرن وقابل لإضافة فروع ومنتجات جديدة بسهولة.
 
 ---
-**Created by: Ahmed El Sakka (Elsaqa)** *Data Analysis & Web Development Student*
+**Created by: Ahmed Elsaqa** *Data Analysis & Web Development Student*
