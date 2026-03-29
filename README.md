@@ -2,7 +2,9 @@
 "A Python-based interactive dashboard for sales analysis and branch performance monitoring"
 # 📊 Business Performance & Sales Dashboard
 ### مشروع تحليل أداء الفروع واتخاذ القرارات الذكية
+
 ![Dashboard Preview](Screenshot (77).png)
+
 ## 🌟 نظرة عامة (Project Overview)
 هذا المشروع هو نظام (Business Intelligence) متكامل مبني بلغة **Python**، يساعد أصحاب الشركات والمحلات على مراقبة أداء فروعهم (القاهرة، الإسكندرية، المنصورة) بشكل تفاعلي ولحظي.
 
